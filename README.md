@@ -1,5 +1,6 @@
 # coba-metrics
 
+```
 11/4/18 12:39:10 PM ============================================================
 
 -- Meters ----------------------------------------------------------------------
@@ -53,5 +54,5 @@ requests
      1-minute rate = 0.20 events/second
      5-minute rate = 0.20 events/second
     15-minute rate = 0.20 events/second
-
+```
 
